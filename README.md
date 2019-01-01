@@ -1,6 +1,8 @@
 # Advanced Body Conditioning Ltd's Privacy Policy
 
-In all honesty, we make a conscious effort to collect as little personal information about you as possible through our website and general business practices. We don’t just do this for GDPR compliance but we respect the privacy of everyone who interacts with us.
+In all honesty, we make a conscious effort to collect as little personal information about you as possible through our website and general business practices.
+
+We don’t just do this for GDPR compliance but we respect the privacy of everyone who interacts with us.
 
 This privacy policy applies to personal info gathered from our website, as well as to other personal info of our customers, potential customers, and employees that we’ve collected in running our business.
 
@@ -9,7 +11,9 @@ We use Facebook and Instagram to support our services and our Advanced Body Cond
 
 We also use Facebook to advertise our business to potential and existing customers with relevant information and offers.
 
-Any data we collect from interactions with Facebook users is used exclusively by Advanced Body Conditioning Ltd and is not shared with other third party businesses. We are not in the business of selling data.
+Any data we collect from interactions with Facebook users is used exclusively by Advanced Body Conditioning Ltd and is not shared with other third party businesses.
+
+We are not in the business of selling data.
 
 More information on Facebook’s own privacy policy can be found at: <https://www.facebook.com/policy.php>.
 
@@ -20,7 +24,9 @@ With consent from our customers and users of our services, we send the most rele
 
 For example, if a potential customer has submitted a Facebook Lead ad form in exchange for an offer, the information they’ve submitted will be stored in Mailchimp and the offer will be automatically sent to them via email.
 
-We only store what’s necessary in order for us to maintain a relationship with you and we will delete it when we no longer have any need for it. The EU GDPR regulation grants you the right to, at any point in time and at no cost:
+We only store what’s necessary in order for us to maintain a relationship with you and we will delete it when we no longer have any need for it.
+
+The EU GDPR regulation grants you the right to, at any point in time and at no cost:
 * Ask to see what personal info we have about you (all of it)
 * Correct any info about you that might have been changed
 * Get the personal info transferred (not applicable to what we do)
@@ -41,16 +47,24 @@ As we are firm believers in doing what’s right, we naturally care a great deal
 
 We therefore keep ourselves abreast of the latest data privacy and security updates and adopt solutions and practices that keep your information secure whilst meeting our needs.
 
-If a data breach occurs, we will inform the subjects of any personal data compromised as soon as possible, once it has been detected. We will cooperate fully with anyone affected in order to minimise the risk of possible harm as a result of the breach.
+If a data breach occurs, we will inform the subjects of any personal data compromised as soon as possible, once it has been detected.
+
+We will cooperate fully with anyone affected in order to minimise the risk of possible harm as a result of the breach.
 
 ## Privacy policy updates
-We will update this privacy policy from time to time. Updates might be a result of legislation changes or the adoption of new solutions that will process personal information.
+We will update this privacy policy from time to time.
+
+Updates might be a result of legislation changes or the adoption of new solutions that will process personal information.
 
 Rather than spamming you with information regarding privacy policy updates, we’ll update this page with the date of when we updated our privacy policy for those who are most interested in this information.
 
-We welcome any feedback on our privacy policy from users of our website, even if there’s something you don’t agree with, to help us continually improve how we work. Feel free to contact us with your feedback.
+We welcome any feedback on our privacy policy from users of our website, even if there’s something you don’t agree with, to help us continually improve how we work.
 
-That’s it, you’ve reached the end of our privacy policy. Thanks for taking the time to read through it all!
+Feel free to contact us with your feedback.
+
+That’s it, you’ve reached the end of our privacy policy.
+
+Thanks for taking the time to read through it all!
 
 ## Our business details
 Name: Advanced Body Conditioning Ltd
