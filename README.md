@@ -21,15 +21,15 @@ With consent from our customers and users of our services, we send the most rele
 For example, if a potential customer has submitted a Facebook Lead ad form in exchange for an offer, the information they’ve submitted will be stored in Mailchimp and the offer will be automatically sent to them via email.
 
 We only store what’s necessary in order for us to maintain a relationship with you and we will delete it when we no longer have any need for it. The EU GDPR regulation grants you the right to, at any point in time and at no cost:
-*Ask to see what personal info we have about you (all of it)
-*Correct any info about you that might have been changed
-*Get the personal info transferred (not applicable to what we do)
-*Restrict in some way the use of the personal info that we have about you
-*“To be forgotten” i.e. all info about you will be eradicated
+* Ask to see what personal info we have about you (all of it)
+* Correct any info about you that might have been changed
+* Get the personal info transferred (not applicable to what we do)
+* Restrict in some way the use of the personal info that we have about you
+* “To be forgotten” i.e. all info about you will be eradicated
 
-There is a lot of legal information that supports this, which you can read in a user-friendly format at (https://gdpr-info.eu/).
+There is a lot of legal information that supports this, which you can read in a user-friendly format at <https://gdpr-info.eu/>.
 
-The best way to contact us regarding this is by email at (enquiries@abc-gym.co.uk).
+The best way to contact us regarding this is by email at <enquiries@abc-gym.co.uk>.
 
 ## What we do with your personal information
 If you are one of our customers (potential or existing), we will enter your information into our customer relationship management (CRM) system in order to make managing our relationship and contacting you easier for our team.
@@ -55,4 +55,4 @@ That’s it, you’ve reached the end of our privacy policy. Thanks for taking t
 ## Our business details
 Name: Advanced Body Conditioning Ltd
 Premises: ABC, Unit 1, 55 Progress Road, Leigh on Sea, Essex, SS9 5PR
-Companies house details: (https://beta.companieshouse.gov.uk/company/10904015)
+Companies house details: <https://beta.companieshouse.gov.uk/company/10904015>
