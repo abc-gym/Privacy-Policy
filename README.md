@@ -7,7 +7,7 @@ We don’t just do this for GDPR compliance but we respect the privacy of everyo
 This privacy policy applies to personal info gathered from our website, as well as to other personal info of our customers, potential customers, and employees that we’ve collected in running our business.
 
 ## We use Facebook and Instagram
-We use Facebook and Instagram to support our services and our Advanced Body Conditioning Ltd’s community with relevant content that’s interesting, helpful and entertaining.
+We use Facebook and Instagram to support our services and Advanced Body Conditioning Ltd’s community with relevant content that’s interesting, helpful and entertaining.
 
 We also use Facebook to advertise our business to potential and existing customers with relevant information and offers.
 
