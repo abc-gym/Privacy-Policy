@@ -11,7 +11,7 @@ We also use Facebook to advertise our business to potential and existing custome
 
 Any data we collect from interactions with Facebook users is used exclusively by Advanced Body Conditioning Ltd and is not shared with other third party businesses. We are not in the business of selling data.
 
-More information on Facebook’s own privacy policy can be found at: (https://www.facebook.com/policy.php).
+More information on Facebook’s own privacy policy can be found at: <https://www.facebook.com/policy.php>.
 
 ## We use Mailchimp
 We use Mailchimp to send emails to our customers (potential and existing) that contain relevant offers, content, and supporting services.
